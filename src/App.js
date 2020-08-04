@@ -60,7 +60,7 @@ class App extends Component {
           <div className="column">
             <Taskform addTask={this.addTask} />
           </div>
-          <div className="column mt-2">
+          <div className="column mt-2 mb-3">
             <table className="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
               <thead className="has-background-grey-dark" >
                 <tr>
