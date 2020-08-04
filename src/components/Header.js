@@ -11,8 +11,8 @@ export  class Header extends Component {
          className="has-text-info" target="_blank"> React </a>
         and <span className="has-text-primary">  <a className="has-text-primary"
          target="_blank" href="https://bulma.io/">Bulma</a></span> </h1>
-        <img className="App-logo App-logoR" src={logo} alt="logo"></img>
-        <img className="App-logo" src={bulma} alt="logo"></img>
+        <img className="App-logo" src={logo} alt="logo"></img>
+        <img className="App-logoR" src={bulma} alt="logo"></img>
         <p className="subtitle">
           Modern CSS framework based on{" "}
           <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">
